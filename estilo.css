@@ -18,7 +18,7 @@ body {
     width: 980px;
 }
 
-
+/* ===  1ª seção === */
 .topo {
     background-color: #afddfb;
 }
@@ -41,20 +41,20 @@ body {
     border-bottom: 2px solid #1d1d1d;
 }
 
-
+/* ===  2ª seção === */
 
 .banner {
     padding-top: 0;
     margin-top: 50px;
 }
 
-
+/* ===  estilos para destaques === */
 
 span {
     font-weight: bold;
 }
 
-
+/* ===  3ª seção === */
 
 h1 {
     color: #1d1d1d;
@@ -75,7 +75,7 @@ h2 {
     color: #1d80c1;
 }
 
-
+/* ===  4ª seção === */
 
 .servicos, .contato {
     background-color: #1d80c1;
@@ -111,7 +111,7 @@ h3 {
     color: #fff;
 }
 
-
+/* ===  6ª seção === */
 
 .paragrafo-contato {
     color: #fff;
